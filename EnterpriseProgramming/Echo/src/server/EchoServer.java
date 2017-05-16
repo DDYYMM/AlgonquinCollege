@@ -44,7 +44,7 @@ public class EchoServer implements Runnable{
 
 	/**
 	 * Override 'run' method that handles the acceptance of client connections
-	 * via TaskDelegate and multi-threading
+	 * via ServerSocketConnection and multi-threading
 	 */
 	@Override
 	public void run() {
