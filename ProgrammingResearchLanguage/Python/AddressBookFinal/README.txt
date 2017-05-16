@@ -6,7 +6,7 @@ Requirements:
 - Python 2.7 x86 (including pyunit)
 - MySQL 5.6 server of greater
 - All scripts must be in a single directory
-- Database schemma and user matching those described in database_final.py
+- Database schema and user matching those described in database_final.py
 
 Installation/Execution:
 
